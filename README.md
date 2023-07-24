@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div>
-  <img src="	https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </div>
 
 <div>
